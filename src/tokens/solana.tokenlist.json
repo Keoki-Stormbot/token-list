@@ -20736,12 +20736,12 @@
         "website": "https://www.mercurial.finance/"
       }
     },
-    {
+    ,{
       "chainId": 103,
       "address": "6xnQiCheV7U6wNZRjKPjan8qpE69yRzSPRb742KSHZYe",
       "symbol": "SPK",
       "name": "SPL Token",
-      "decimals": 6,
+      "decimals": 6
       "logoURI": "https://dl.dropboxusercontent.com/s/j9e71gm4dwitxgp/token.png?dl=0",
       "tags": [
         "utility-token"
@@ -47324,6 +47324,17 @@
       "name": "Skibba",
       "decimals": 0,
       "logoURI": "https://github.com/SkibbaToken/SkibbaToken/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "EPe5HaGZJgnYfSPgJmK4r3AWT3Ly2wMbxyPjuTNedc2J",
+      "symbol": "STRM",
+      "name": "Storm ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Keoki-Stormbot/crypto/main/a1252a1221e6485c9e709a20d2278e27.png",
       "tags": [
         "social-token"
       ]
